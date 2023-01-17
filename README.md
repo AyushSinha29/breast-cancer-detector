@@ -1,6 +1,6 @@
 # Breast Cancer Detector Web-App
 
-[Click here](https://breast-cancer-detector1.herokuapp.com/) for Web App.
+Dataset used - [Here](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
 
 End-to-end Deep Learning/ Computer Vision project that takes cancer tissue images and predicts whether it has cancer or not.
 
